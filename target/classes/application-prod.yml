@@ -1,0 +1,6 @@
+server:
+  port: 8081
+student:
+  grade: 二年级
+  age: 8
+  content: "年龄 : ${age} , 年级 : ${grade}"
